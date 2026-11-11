@@ -1,6 +1,6 @@
 # Job search agent
 
-A job-search agent for Claude Projects. It researches companies, tailors resumes for ATS filters and hiring managers, writes cover letters, keeps an application tracker, and prepares you for interviews. Every claim it writes comes from your own source-of-truth files, and every change goes through a pull request you approve.
+A job-search agent for Claude Projects that works for any kind of role. It researches companies, tailors resumes for ATS filters and hiring managers, writes cover letters, keeps an application tracker, and prepares you for interviews. Every claim it writes comes from your own source-of-truth files, and every change goes through a pull request you approve.
 
 ## How it works
 
@@ -20,7 +20,7 @@ The agent runs three separate actions, each with its own skills, and each action
 - `skills/`: the 8 skills. Upload each folder as a skill.
 - `tools/`: Python scripts that render the resume and cover letter PDFs and check the resume layout (2 pages, aligned dates, no widow words, banned punctuation). Set your name in `tools/config.json`.
 - `resume-build-rules.md`, `writing-check.md`, `tracker.md`: the rules for layout, writing quality, and tracking.
-- `interview/`: general guides to the capabilities PM interviews test, story types, a story rubric, and a product sense guide, plus a blank story bank.
+- `interview/`: story types, a story rubric, and a blank story bank that work for any role, plus `product-manager-capabilities.md` and `product-sense-guide.md` for product management roles. For another kind of role, name your own capabilities file in `config.md`, or ask the agent to create one.
 - Templates you fill in: `config.md`, `master-resume.md`, `facts.md`, `voice.md`, `personal-stories.md`, and `tracker.csv`.
 - `companies/` and `applications/`: empty. The agent fills them as you apply.
 

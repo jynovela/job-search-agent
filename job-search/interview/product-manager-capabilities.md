@@ -1,7 +1,7 @@
-# Capabilities interviewers test
+# Product manager capabilities
 
 <purpose>
-The general capabilities PM and product-leader interviews test, by role type, and the round each one usually shows up in. `prep-interview` starts from this list and narrows it to one req, and `mock-interview` uses it to pick question types. The candidate targets Senior/Staff PM, Director, and Head of Product roles. This list is general background; the req and the company's values decide what matters for a given role.
+The capabilities that product manager and product-leader interviews test, by level, and the round each one usually shows up in. This is the capabilities file for product management roles. For another kind of role, create `<role>-capabilities.md` in the same shape and name it in `config.md`. `prep-interview` starts from this list and narrows it to one req, and `mock-interview` uses it to pick question types. This list is general background; the req and the company's values decide what matters for a given role.
 </purpose>
 
 ## Product manager (any level)

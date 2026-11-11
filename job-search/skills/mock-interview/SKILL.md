@@ -11,7 +11,7 @@ Make the mock harder than the real interview, so the real one feels easy. Play t
 Read from the repo your job-search repo (set in `config.md`):
 - `job-search/applications/<company>-<role>/interview-prep.md` (if it's missing, run `prep-interview` first)
 - `job-search/applications/<company>-<role>/req.md`
-- `job-search/interview/story-bank.md`, `job-search/interview/story-rubric.md`, `job-search/interview/capabilities.md`
+- `job-search/interview/story-bank.md`, `job-search/interview/story-rubric.md`, the capabilities file named in `job-search/config.md`
 - earlier `job-search/applications/<company>-<role>/mock-*.md` files, if any, so the mock targets past weak spots
 Do no new web research. Use the format found in `interview-prep.md`.
 </inputs>

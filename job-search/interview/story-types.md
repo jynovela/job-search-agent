@@ -1,13 +1,13 @@
 # Story types: the checklist
 
 <purpose>
-The story types the candidate needs ready for any behavioral interview (option D, approved 2026-10-18). The `story-bank` skill uses this list to show coverage and find gaps. Interviewers phrase questions in endless ways, but they nearly all land in one of these buckets, so a strong story per bucket covers almost any question [Cracking the PM Interview via LinkedIn post; RocketBlocks].
+The story types the candidate needs ready for any behavioral interview. The `story-bank` skill uses this list to show coverage and find gaps. Interviewers phrase questions in endless ways, but they nearly all land in one of these buckets, so a strong story per bucket covers almost any question [Cracking the PM Interview via LinkedIn post; RocketBlocks].
 </purpose>
 
 <coverage_goal>
 - Every bucket has a **primary** and a **backup** story, so the candidate never tells the same story twice in one loop.
 - Each story answers 2–3 buckets, so 6–10 stories cover all eight [r/ExperiencedDevs; interviewing.io]. The same story can answer "showed leadership", "disagreed with your manager", and "met a tight deadline" if the candidate shifts which part they emphasize [r/ExperiencedDevs].
-- Stories sit at the candidate's target level (Director / Head of Product) unless a req is for a lower level. See `story-rubric.md`.
+- Stories sit at the candidate's target level (set in `config.md`) unless a req is for a lower level. See `story-rubric.md`.
 </coverage_goal>
 
 ## The eight buckets
@@ -44,7 +44,7 @@ Each bucket lists sample questions and what the interviewer is actually testing 
 
 ### 8. People & org building
 - Questions: built or grew a team · developed someone · hired or let someone go · changed a process or org that outlasted you · scaled a system.
-- Tests: Director-level leverage, meaning people development, org change, and resource allocation [Lara Hogan; jinalzz on Medium]. Stay within `facts.md`: they have managed PMs, not managers of PMs.
+- Tests: Director-level leverage, meaning people development, org change, and resource allocation [Lara Hogan; jinalzz on Medium]. Stay within what `facts.md` says about the people the candidate has managed.
 
 ## Have ready (not bucket stories)
 These are prepared answers, not stories in the bank. Keep them in `story-bank.md` under **Ready answers**.
