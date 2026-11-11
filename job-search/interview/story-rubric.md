@@ -5,7 +5,7 @@ How to score a story on two scales: **Level** (is it pitched at the right senior
 </purpose>
 
 ## Scale 1: Level fit
-Score against the role's level, taken from the req: Senior/Staff PM, Director, or Head of Product / VP.
+Score against the role's level, taken from the req, or the target level in `config.md` when the req doesn't say.
 
 | Criterion | What a 5 looks like | Common miss |
 |---|---|---|

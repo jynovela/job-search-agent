@@ -33,7 +33,7 @@ Pick the mode from the candidate's ask. With no clear ask, run **Coverage** firs
 5. **Evaluate it** (below), then save.
 
 **Evaluate** (score and improve one story or the whole bank)
-1. **Set the level** from the req if one is given; otherwise use Director / Head of Product.
+1. **Set the level** from the req if one is given; otherwise use the target level in `config.md`.
 2. **Run the quick diagnostic** in `story-rubric.md`, then score each criterion 1–5 on both scales, citing what in the story earned the score.
 3. **Give feedback** in the rubric's order: the weakest criterion first, then 2–3 concrete fixes written as replacement lines or questions to answer. If it's the wrong story for the bucket or level, say so and suggest a better candidate.
 4. **Offer one rewrite** of the key beats (not a script): the 20-second setup, the decision moment, and the result line, so the candidate can hear the difference.

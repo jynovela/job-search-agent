@@ -47,7 +47,7 @@ Line spacing is 1.0 (single) everywhere. Only a company with several titles unde
 ## 5. Headline and summary
 - Headline is always "<Current or target title> | A, B & C", three areas from the posting that the candidate has real evidence for, in the posting's words.
 - Summary is rewritten every time, 90 to 140 words, 4 to 6 sentences.
-- Sentence 1 is "Product leader with [N]+ years building [3 or 4 posting areas] products at [employers]." Drop an employer that is irrelevant to the posting.
+- Sentence 1 is "[Professional identity, e.g. Product leader, Backend engineer, Marketing manager] with [N]+ years [doing 3 or 4 posting areas] at [employers]." Drop an employer that is irrelevant to the posting.
 - Sentences 2 to 5 take one company each ("At [Company],", "As [title] of [Company],", "Earlier,"), each with one or two real numbers picked for the posting.
 - An optional closer for hands-on roles names how the candidate works day to day (for example the tools they build with), taken from `master-resume.md`.
 - People-leadership roles add the management facts from `master-resume.md` (team size, reports, performance reviews).
