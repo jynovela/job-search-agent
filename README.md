@@ -45,3 +45,12 @@ python3 tools/verify_resume.py "Example Corp - Principal PM - Alex Rivera - Resu
 - Never invent or inflate. Every employer, title, date, number, and skill comes from your files or from you in the conversation. Missing numbers become visible placeholders.
 - It saves what you teach it. Answers and corrections go back into `facts.md`, `master-resume.md`, `voice.md`, or `personal-stories.md`, so each application improves on the last.
 - It works through pull requests. It never pushes to the default branch and never merges.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+The interview guides in `job-search/interview/` summarize articles by
+other people, cited in each file. Short quotes from those articles stay
+under their owners' copyright; the license covers only the summaries and
+notes written for this project.
