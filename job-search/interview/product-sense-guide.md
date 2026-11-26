@@ -69,16 +69,16 @@ Then the plan, nearly word for word [Erez]:
 > "Before I dive in, here's my plan. I'll start with what the product is and why it matters. Then I'll look at the audience and pick a segment. Then I'll find that segment's key problems and pick one. Then I'll brainstorm solutions and pick one, and if we have time, sketch a v1 and how we'd measure it. Does that sound good?"
 
 #### Examples
-**Good 1 (Netflix podcasts):** "So you'd like a podcast product for Netflix. I'll assume I'm the PM for a new zero-to-one product, US first, built inside the Netflix app so we start with existing subscribers, and audio rather than video podcasts since most listening is audio-only. Stop me if you had something else in mind. Here's my plan: why this matters for Netflix, who it's for, their biggest problem, then solutions and a v1. Sound good?"
+**Good 1 (Netflix podcasts):** "Podcasts at Netflix, got it. To keep this focused, I'll make a few assumptions. This is a new product, not a tweak to something that exists. It lives inside the Netflix app, so our starting audience is current members. We launch in the US first. And it's audio only, because people mostly listen when their eyes are busy. Tell me if any of those should change. My plan is: why Netflix should care, which listeners to serve, what gets in their way, and then a few solutions and a first version. Okay to go ahead?"
 *Why it works:* four assumptions that bound the case without choosing the answer, each with a reason, and a plan the interviewer can track.
 
-**Good 2 (Meta gardening):** "Let me take a minute to organize my thoughts. ... Okay. I'm a PM at Meta building something new for gardening. I'll focus on personal and home gardening, not commercial farms, and I'll build within Facebook, Instagram, and WhatsApp for distribution. US first. One question that changes the case: is there a business goal you'd like me to favor, or is that up to me? ... Up to me, great. I'll optimize for people getting value first and come back to monetization at the end."
+**Good 2 (Meta gardening):** "Can I have a moment to think? ... Thanks. So I'm a Meta PM and the space is gardening. I'll stick to people growing plants at home rather than farms, and I'll use Facebook, Instagram, and WhatsApp to reach them. US to start. There's one thing that would change my approach: should I aim at a business result, or is that my call? ... My call, okay. Then I'll put user value first and cover how it makes money at the end."
 *Why it works:* asks for thinking time, asks only the one question that matters, and handles "up to you" by making a call.
 
-**Bad 1:** "Okay, podcasts on Netflix. So I think the first thing is a podcast tab, and then maybe recommendations based on what you watched, and we could add video clips..."
+**Bad 1:** "Right, Netflix podcasts. I'd add a podcast section to the home screen first, then recommend shows from your watch history, and maybe some short video versions too..."
 *Why it fails:* no assumptions, no plan, straight into features. The interviewer can't tell where this is going or score any dimension yet.
 
-**Bad 2:** "Before I start, a few questions. What's the budget? How big is the team? What's the timeline? Which platforms? Which countries? Should I focus on listeners or creators? What would you like me to cover first?"
+**Bad 2:** "Can I ask some things first? How much money do we have? How many engineers? When does it need to ship? iOS, Android, or TV? Which markets? Listeners or creators? And where do you want me to begin?"
 *Why it fails:* an interrogation that hands the work back to the interviewer. The last two questions read as no ownership. State assumptions instead and ask at most one question.
 
 ### Step 1. Product motivation
